@@ -1,0 +1,2 @@
+# declartion
+project half information
